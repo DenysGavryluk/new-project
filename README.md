@@ -18,13 +18,7 @@ VanitySearch may not compute a good grid size for your GPU, so try different val
   <li>Support split-key vanity address</li>    
 </ul>
 
-# Discussion Thread
-
-[Disucussion about VanitySearch@bitcointalk](https://bitcointalk.org/index.php?topic=5112311.0)
-
 # Usage
-
-You can downlad latest release from https://github.com/JeanLucPons/VanitySearch/releases
 
 ```
 VanitySeacrh [-check] [-v] [-u] [-b] [-c] [-gpu] [-stop] [-i inputfile]
@@ -228,4 +222,3 @@ Priv (HEX): 0x398E7271AF3E5A78821C1ADFDE3EE90760A6B65F72D856CFE455B1264350BCE8
 # License
 
 VanitySearch is licensed under GPLv3.
-
